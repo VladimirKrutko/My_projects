@@ -2,7 +2,7 @@ from json.decoder import JSONDecodeError
 
 import requests
 
-ACCESS_TOKEN = '8370bd438370bd438370bd43e9830434d4883708370bd43dce1db69bc76fa40f1da5ac6'
+ACCESS_TOKEN = ############
 API_URL = 'https://api.vk.com/method'
 V = '5.71'
 
